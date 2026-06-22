@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+
+# Vector Databases
+chroma_db/
+
+# API Keys (Just in case you ever use them again)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# PDFs (Don't upload copyrighted books/papers)
+*.pdf
