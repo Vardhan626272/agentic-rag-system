@@ -37,3 +37,5 @@ This project ingests complex PDF documents, processes them into a local vector d
 5. Build the vector database: `python ingest.py`
 
 6. Wake up the agent and start chatting: `python agent.py`
+
+**🎬 [Watch the Demo Video Here](https://drive.google.com/file/d/1zIPdL2wFLJcw3ErbFFu-nlXfYAM7690Z/view?usp=drive_link)**
